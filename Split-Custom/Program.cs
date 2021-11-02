@@ -12,7 +12,11 @@ namespace Split_Custom
             Console.Write("Seperator:");
             char seperator = Convert.ToChar(Console.ReadLine());
             Console.WriteLine("--------------");
-            Console.WriteLine(Split(str,seperator));
+            string[] arrr=Split(str,seperator);
+            for (int i = 0; i < arrr.Length-1; i++)
+            {
+                Console.WriteLine(arrr[i]);
+            }
         }
 
         static string[] Split(string str, char seperator)
@@ -31,16 +35,20 @@ namespace Split_Custom
                     l = i;
                     if (i==str.Length-1)
                     {
-                        l = i + i;
+                        l = i + 1;
                     }
                     for (int j = k;  j < l;  j++)
                     {
                         result.Append(str[j]);
                     }
-                    
+                    arr[m] = result.ToString();
+                    m++;
+                    k = l + 1;
                 }
+                
             }
-            
+            return arr;
+
         }
     }
 }
