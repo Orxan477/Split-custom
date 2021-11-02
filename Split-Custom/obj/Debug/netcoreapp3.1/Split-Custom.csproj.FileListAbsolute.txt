@@ -1,0 +1,14 @@
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\bin\Debug\netcoreapp3.1\Split-Custom.exe
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\bin\Debug\netcoreapp3.1\Split-Custom.deps.json
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\bin\Debug\netcoreapp3.1\Split-Custom.runtimeconfig.json
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\bin\Debug\netcoreapp3.1\Split-Custom.runtimeconfig.dev.json
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\bin\Debug\netcoreapp3.1\Split-Custom.dll
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\bin\Debug\netcoreapp3.1\Split-Custom.pdb
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.csproj.AssemblyReference.cache
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.AssemblyInfoInputs.cache
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.AssemblyInfo.cs
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.dll
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.pdb
+C:\Users\Orxan477\source\repos\Split-Custom\Split-Custom\obj\Debug\netcoreapp3.1\Split-Custom.genruntimeconfig.cache
